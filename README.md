@@ -1,5 +1,5 @@
 <h1 align="center">Cognifyz Technologies - intern</h1> </p>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
+<img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/D4D0BAQFOzUIOz1Yb-A/company-logo_200_200/0/1687705346996?e=2147483647&v=beta&t=Mr0W5MJZNDoad6_H-PRL6wCYwMHMdc3JnsJbj8xKMfE">
 
 </a><h1>I am `SATHISH KUMAR`</h1>
 <h3 align="left">Connect with me:</h3>
